@@ -1,0 +1,2 @@
+class AppAlreadyRegistered(Exception):
+    pass
